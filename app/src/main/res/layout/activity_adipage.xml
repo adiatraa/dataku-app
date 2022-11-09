@@ -28,7 +28,7 @@
             android:layout_marginTop="60dp"
             android:layout_marginEnd="176dp"
             android:fontFamily="@font/poppins"
-            android:text="@string/adiat_rahman"
+            android:text="Cahyo Adi"
             android:textColor="#FFFFFF"
             android:textSize="30sp"
             android:textStyle="bold"
@@ -44,7 +44,7 @@
         android:layout_height="187dp"
         tools:layout_editor_absoluteX="120dp"
         tools:layout_editor_absoluteY="123dp"
-        tools:srcCompat="@drawable/adiat_avatar" />
+        tools:srcCompat="@drawable/adi_avatar" />
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="409dp"
@@ -66,10 +66,10 @@
             android:layout_marginTop="56dp"
             android:layout_marginEnd="178dp"
             android:fontFamily="@font/poppins"
-            android:text="adiatrahman31@gmail.com"
+            android:text="chyoadip@gmail.com"
             android:textSize="20sp"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.427"
+            app:layout_constraintHorizontal_bias="0.563"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
@@ -78,7 +78,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="@font/poppins"
-            android:text="Adiat Rahman"
+            android:text="Cahyo Adi"
             android:textSize="20sp"
             tools:layout_editor_absoluteX="80dp"
             tools:layout_editor_absoluteY="115dp" />
@@ -96,7 +96,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:fontFamily="@font/poppins"
-            android:text="V3421002"
+            android:text="V3421026"
             android:textSize="20sp"
             tools:layout_editor_absoluteX="80dp"
             tools:layout_editor_absoluteY="167dp" />
