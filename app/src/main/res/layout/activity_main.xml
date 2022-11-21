@@ -32,7 +32,8 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintHorizontal_bias="0.497"
             app:layout_constraintLeft_toLeftOf="parent"
-            app:layout_constraintRight_toRightOf="parent" />
+            app:layout_constraintRight_toRightOf="parent"
+            tools:ignore="TextContrastCheck" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <ImageView
@@ -40,6 +41,7 @@
         android:layout_width="180dp"
         android:layout_height="180dp"
         android:layout_marginBottom="416dp"
+        android:contentDescription="@string/bella_image"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -51,6 +53,7 @@
         android:layout_width="30dp"
         android:layout_height="30dp"
         android:layout_marginBottom="352dp"
+        android:contentDescription="@string/bella_image"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.097"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -62,7 +65,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="304dp"
+        android:layout_marginBottom="352dp"
         android:text="@string/bella_email"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -75,6 +78,7 @@
         android:layout_width="32dp"
         android:layout_height="32dp"
         android:layout_marginBottom="304dp"
+        android:contentDescription="@string/bella_image"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.097"
         app:layout_constraintLeft_toLeftOf="parent"
@@ -86,7 +90,7 @@
         android:id="@+id/textView3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="352dp"
+        android:layout_marginBottom="304dp"
         android:text="@string/bella_name"
         android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -99,6 +103,7 @@
         android:layout_width="30dp"
         android:layout_height="30dp"
         android:layout_marginBottom="256dp"
+        android:contentDescription="@string/bella_image"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintHorizontal_bias="0.097"
         app:layout_constraintLeft_toLeftOf="parent"
